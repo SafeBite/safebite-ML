@@ -1,5 +1,6 @@
 # Dataset
 We are using a dataset which consist of 98 classes of food that we scrape from Google Image. 
+Link to dataset: https://drive.google.com/drive/folders/1JIRycN8Ea_FLjRbuS_b1U4LzZGkyn5WG?usp=sharing
 ![label](https://github.com/SafeBite/safebite-ML/assets/79191618/d515a864-5426-4838-9d9f-15ff1fb4447c)
 
 # Model
